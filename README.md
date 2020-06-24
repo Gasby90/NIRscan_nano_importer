@@ -9,3 +9,5 @@ For multiple scans included in a unique .csv file use NIRscan_nano_import.m aide
 
 
 For multiple .csv files, with similar calibration files (black and white) use NIRscan_nano_import5.m  aided by ciao3.m.  Correction is applied to spectra and corrected with black BLACK.mat and white WHITE.mat. Files in the directory must not have spaces between digits. Use NOSPACE.BAT for eliminating spaces in files name ".csv".
+
+[![DOI](https://zenodo.org/badge/274640318.svg)](https://zenodo.org/badge/latestdoi/274640318)
